@@ -21,7 +21,7 @@ Example:
 `We have sunk your Carrier`
 
 
-There are 5 different ships and are covers a different amount of cells
+There are 5 different ships and each covers a different amount of cells
 
 * Carrier, 5 cells
 * Battleship, 4 cells
@@ -32,7 +32,7 @@ There are 5 different ships and are covers a different amount of cells
 
 ## Player
 
-Each player has 5 ships part of their fleet and their own hit board. Each fleet is made up of the following ships,
+Each player has 5 ships as part of their fleet and their own hit board. Each fleet is made up of the following ships,
 
 * Carrier
 * Battleship
@@ -93,8 +93,6 @@ H| | | | | | | | |
 ```
 
 ## Commands
-
-Your program must support the following commands
 
 * shots - Shows the shots on a grid 
 * fire <A-H> <1-8> - Fires a shot at this location
